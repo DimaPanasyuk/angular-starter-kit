@@ -3,9 +3,9 @@
   This is simple and easy to use AngularJs 1.x starter kit, 
   which will help you to quickly start developing your AngularJs project.
 </p>
-<p>
+<strong>
   This starter kit provides you with following features:
-</p>
+</strong>
 <ol>
   <li>AngularJs 1.x</li>
   <li>AngularJs router</li>
@@ -15,9 +15,9 @@
   <li>Bootstrap 3</li>
   <li>Less</li>
 </ol>
-<p>
+<strong>
   Next development tools are used in this starter kit:
-</p>
+</strong>
 <ol>
   <li>Gulp.js</li>
   <li>Browser-sync</li>
@@ -30,7 +30,6 @@
     Clone this repo
   </li>
   <li>
-    In starter kit folder run next command to download and install all dependencies
     <code>
       npm install
     </code>
