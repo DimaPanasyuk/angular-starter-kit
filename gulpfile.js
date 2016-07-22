@@ -73,7 +73,10 @@ gulp.task('sync', () => {
       baseDir: './'
     }
   });
-  gulp.watch(`${app.build.normal}/**/*.{html,css,js}`).on('change', browserSync.reload);
+  gulp.watch([
+    `${app.build.normal}/**/*.{html,css,js}`,
+    `./index.html`
+  ]).on('change', browserSync.reload);
 });
 
 gulp.task('default', [
