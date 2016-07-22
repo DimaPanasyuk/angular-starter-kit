@@ -1,5 +1,4 @@
 <h1>AngularJs starter kit</h1>
-<hr>
 <p>
   This is simple and easy to use AngularJs 1.x starter kit, 
   which will help you to quickly start developing your AngularJs project.
